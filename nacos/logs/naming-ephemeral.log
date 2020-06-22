@@ -1,0 +1,888 @@
+2020-06-22 09:11:04,333 INFO distro notifier started
+
+2020-06-22 09:11:09,320 DEBUG server list is: []
+
+2020-06-22 09:11:14,321 DEBUG server list is: []
+
+2020-06-22 09:11:19,322 DEBUG server list is: []
+
+2020-06-22 09:11:24,324 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788284015,"lastRefTimeStr":"2020-06-22 09:11:24","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:11:29,325 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788284015,"lastRefTimeStr":"2020-06-22 09:11:24","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:11:34,326 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788284015,"lastRefTimeStr":"2020-06-22 09:11:24","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:11:39,326 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788284015,"lastRefTimeStr":"2020-06-22 09:11:24","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:11:44,328 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788284015,"lastRefTimeStr":"2020-06-22 09:11:24","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:11:49,328 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788284015,"lastRefTimeStr":"2020-06-22 09:11:24","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:11:54,332 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788284015,"lastRefTimeStr":"2020-06-22 09:11:24","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:11:59,334 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788284015,"lastRefTimeStr":"2020-06-22 09:11:24","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:12:04,335 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788284015,"lastRefTimeStr":"2020-06-22 09:11:24","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:12:09,345 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788284015,"lastRefTimeStr":"2020-06-22 09:11:24","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:12:14,346 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788284015,"lastRefTimeStr":"2020-06-22 09:11:24","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:12:19,347 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788284015,"lastRefTimeStr":"2020-06-22 09:11:24","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:14:29,210 INFO distro notifier started
+
+2020-06-22 09:14:34,196 DEBUG server list is: []
+
+2020-06-22 09:14:39,197 DEBUG server list is: []
+
+2020-06-22 09:14:44,202 DEBUG server list is: []
+
+2020-06-22 09:14:49,205 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:14:54,206 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:14:59,208 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:15:04,209 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:15:09,210 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:15:14,211 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:15:19,215 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:15:24,247 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:15:29,282 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:15:34,291 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:15:39,298 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:15:44,299 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:15:49,301 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:15:54,303 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:15:59,304 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:16:04,308 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:16:09,309 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:16:14,311 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:16:19,313 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:16:24,320 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:16:29,321 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:16:34,323 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:16:39,323 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:16:44,374 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:16:49,376 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:16:54,378 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:16:59,379 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:17:04,399 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:17:09,408 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:17:14,414 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:17:19,415 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:17:24,437 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:17:29,439 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:17:34,454 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:17:39,455 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:17:44,456 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:17:49,459 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:17:54,460 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:17:59,461 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:18:04,462 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:18:09,464 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:18:14,464 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:18:19,465 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:18:24,466 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:18:29,468 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:18:34,470 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:18:39,471 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:18:44,471 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:18:49,473 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:18:54,474 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:18:59,474 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:19:04,475 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:19:09,476 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:19:14,476 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:19:19,478 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:19:24,481 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:19:29,482 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:19:34,483 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:19:39,485 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:19:44,487 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:19:49,487 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:19:54,488 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:19:59,490 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:20:04,493 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:20:09,493 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:20:14,495 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:20:19,498 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:20:24,499 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:20:29,502 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:20:34,503 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:20:39,505 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:20:44,505 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:20:49,507 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:20:54,507 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:20:59,509 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:21:04,511 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:21:09,512 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:21:14,513 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:21:19,515 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:21:24,517 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:21:29,518 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:21:34,520 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:21:39,521 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:21:44,522 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:21:49,523 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:21:54,524 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:21:59,525 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:22:04,527 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:22:09,528 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:22:14,529 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:22:19,532 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:22:24,534 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:22:29,535 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:22:34,535 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:22:39,536 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:22:44,537 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:22:49,538 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:22:54,539 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:22:59,541 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:23:04,542 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:23:09,544 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:23:14,545 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:23:19,547 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:23:24,548 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:23:29,549 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:23:34,551 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:23:39,553 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:23:44,555 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:23:49,557 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:23:54,559 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:23:59,560 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:24:04,562 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:24:09,563 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:24:14,564 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:24:19,565 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:24:24,566 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:24:29,567 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:24:34,567 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:24:39,569 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:24:44,569 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:24:49,570 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:24:54,571 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:24:59,572 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:25:04,574 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:25:09,575 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:25:14,576 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:25:19,578 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:25:24,578 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:25:29,579 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:25:34,581 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:25:39,581 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:25:44,583 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:25:49,585 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:25:54,586 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:25:59,587 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:26:04,589 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:26:09,597 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:26:14,598 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:26:19,599 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:26:24,600 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:26:29,602 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:26:34,603 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:26:39,604 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:26:44,605 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:26:49,607 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:26:54,609 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:26:59,610 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:27:04,613 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:27:09,615 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:27:14,617 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:27:19,618 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:27:24,619 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:27:29,620 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:27:34,622 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:27:39,623 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:27:44,630 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:27:49,632 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:27:54,632 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:27:59,634 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:28:04,636 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:28:09,637 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:28:14,639 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:28:19,639 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:28:24,641 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:28:29,689 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:28:34,696 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:28:39,697 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:28:44,698 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:28:49,700 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:28:54,703 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:28:59,707 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:29:04,708 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:29:09,709 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:29:14,710 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:29:19,711 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:29:24,713 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:29:29,717 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:29:34,718 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:29:39,719 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:29:44,721 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:29:49,722 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:29:54,724 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:29:59,725 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:30:04,725 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:30:09,726 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:30:14,728 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:30:19,730 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:30:24,731 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:30:29,732 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:30:34,733 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:30:39,735 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:30:44,736 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:30:49,736 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:30:54,738 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:30:59,739 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:31:04,741 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:31:09,742 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:31:14,743 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:31:19,744 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:31:24,744 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:31:29,745 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:31:34,747 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:31:39,748 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:31:44,750 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:31:49,751 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:31:54,753 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:31:59,753 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:32:04,757 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:32:09,758 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:32:14,759 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:32:19,759 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:32:24,761 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:32:29,762 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:32:34,764 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:32:39,766 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:32:44,766 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:32:49,768 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:32:54,773 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:32:59,774 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:33:04,775 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:33:09,776 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:33:14,777 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:33:19,778 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:33:24,778 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:33:29,779 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:33:34,781 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:33:39,782 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:33:44,784 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:33:49,786 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:33:54,787 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:33:59,788 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:34:04,790 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:34:09,791 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:34:14,791 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:34:19,792 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:34:24,793 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:34:29,793 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:34:34,795 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:34:39,796 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:34:44,798 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:34:49,798 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:34:54,800 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:34:59,801 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:35:04,802 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:35:09,803 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:35:14,804 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:35:19,805 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:35:24,806 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:35:29,810 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:35:34,811 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:35:39,812 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:35:44,813 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:35:49,814 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:35:54,816 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:35:58,025 DEBUG got key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin
+
+2020-06-22 09:35:58,050 DEBUG [NACOS-DISTRO] datum change notified, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin, listener count: 1, action: CHANGE
+
+2020-06-22 09:35:59,818 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:35:59,819 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=63881d804e0061b3701920c2a9a13dbc}
+
+2020-06-22 09:36:04,821 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:36:04,821 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=63881d804e0061b3701920c2a9a13dbc}
+
+2020-06-22 09:36:09,823 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:36:09,823 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=63881d804e0061b3701920c2a9a13dbc}
+
+2020-06-22 09:36:14,824 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:36:14,825 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=63881d804e0061b3701920c2a9a13dbc}
+
+2020-06-22 09:36:19,826 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:36:19,827 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=63881d804e0061b3701920c2a9a13dbc}
+
+2020-06-22 09:36:24,829 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:36:24,831 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=63881d804e0061b3701920c2a9a13dbc}
+
+2020-06-22 09:36:29,832 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:36:29,833 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=63881d804e0061b3701920c2a9a13dbc}
+
+2020-06-22 09:36:34,834 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:36:34,834 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=63881d804e0061b3701920c2a9a13dbc}
+
+2020-06-22 09:36:39,836 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:36:39,836 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=63881d804e0061b3701920c2a9a13dbc}
+
+2020-06-22 09:36:44,837 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:36:44,837 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=63881d804e0061b3701920c2a9a13dbc}
+
+2020-06-22 09:36:49,838 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:36:49,838 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=63881d804e0061b3701920c2a9a13dbc}
+
+2020-06-22 09:36:54,840 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:36:54,844 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=63881d804e0061b3701920c2a9a13dbc}
+
+2020-06-22 09:36:59,845 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:36:59,845 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=63881d804e0061b3701920c2a9a13dbc}
+
+2020-06-22 09:37:04,847 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:37:04,848 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=63881d804e0061b3701920c2a9a13dbc}
+
+2020-06-22 09:37:09,849 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:37:09,849 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=63881d804e0061b3701920c2a9a13dbc}
+
+2020-06-22 09:37:14,851 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:37:14,851 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=63881d804e0061b3701920c2a9a13dbc}
+
+2020-06-22 09:37:19,853 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:37:19,853 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=63881d804e0061b3701920c2a9a13dbc}
+
+2020-06-22 09:37:24,854 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:37:24,854 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=63881d804e0061b3701920c2a9a13dbc}
+
+2020-06-22 09:37:29,854 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:37:29,854 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=63881d804e0061b3701920c2a9a13dbc}
+
+2020-06-22 09:37:34,857 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:37:34,857 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=63881d804e0061b3701920c2a9a13dbc}
+
+2020-06-22 09:37:39,858 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:37:39,858 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=e9483492fa393bf4d2296872c8614641}
+
+2020-06-22 09:37:44,859 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:37:44,859 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=e9483492fa393bf4d2296872c8614641}
+
+2020-06-22 09:37:49,859 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:37:49,862 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=e9483492fa393bf4d2296872c8614641}
+
+2020-06-22 09:37:53,397 DEBUG got key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin
+
+2020-06-22 09:37:53,398 DEBUG [NACOS-DISTRO] datum change notified, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin, listener count: 1, action: CHANGE
+
+2020-06-22 09:37:54,863 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:37:54,864 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:37:59,866 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:37:59,866 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:38:04,867 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:38:04,867 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:38:09,869 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:38:09,869 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:38:14,870 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:38:14,870 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:38:19,871 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:38:19,871 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:38:24,872 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:38:24,872 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:38:29,873 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:38:29,873 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:38:34,875 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:38:34,876 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:38:39,877 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:38:39,877 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:38:44,879 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:38:44,880 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:38:49,880 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:38:49,880 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:38:54,882 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:38:54,882 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:38:59,885 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:38:59,885 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:39:04,886 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:39:04,886 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:39:09,889 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:39:09,890 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:39:14,891 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:39:14,892 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:39:19,894 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:39:19,894 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:39:24,895 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:39:24,895 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:39:29,897 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:39:29,897 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:39:34,898 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:39:34,898 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:39:39,900 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:39:39,900 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:39:44,901 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:39:44,901 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:39:49,902 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:39:49,902 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:39:54,903 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:39:54,903 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:39:59,905 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:39:59,906 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:40:04,908 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:40:04,908 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:40:09,909 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:40:09,909 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:40:14,911 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:40:14,911 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:40:19,912 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:40:19,912 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:40:24,915 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:40:24,915 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:40:29,917 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:40:29,917 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:40:34,919 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:40:34,919 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:40:39,921 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:40:39,921 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:40:44,922 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:40:44,922 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:40:49,922 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:40:49,922 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:40:54,924 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:40:54,924 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:40:59,925 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:40:59,925 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:41:04,926 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:41:04,926 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:41:09,927 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:41:09,928 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:41:14,931 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:41:14,931 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:41:19,931 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:41:19,931 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:41:24,933 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:41:24,933 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:41:29,934 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:41:29,934 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:41:34,936 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:41:34,936 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:41:39,937 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:41:39,937 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:41:44,939 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:41:44,939 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:41:49,940 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:41:49,940 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:41:54,942 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:41:54,942 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:41:59,944 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:41:59,944 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:42:04,944 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:42:04,944 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:42:09,946 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:42:09,946 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:42:14,947 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:42:14,947 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:42:19,949 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:42:19,949 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:42:24,951 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:42:24,955 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:42:29,955 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:42:29,955 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:42:34,957 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:42:34,957 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:42:39,958 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:42:39,958 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:42:44,960 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:42:44,960 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+
+2020-06-22 09:42:49,961 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592788488914,"lastRefTimeStr":"2020-06-22 09:14:48","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-22 09:42:49,961 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@nacos-fegin=d41d8cd98f00b204e9800998ecf8427e}
+

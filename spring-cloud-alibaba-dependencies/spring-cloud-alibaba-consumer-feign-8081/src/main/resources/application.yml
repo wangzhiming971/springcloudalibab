@@ -1,0 +1,24 @@
+server:
+  port: 8081
+#配置服务提供者名称和注册到nacos配置中心
+spring:
+  application:
+    name: nacos-fegin
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+#消费者发送心跳包监控
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+#开启熔断器
+feign:
+  hystrix:
+    enabled: true
+
+
+
+

@@ -11,7 +11,9 @@
         <module>spring-cloud-alibaba-provider-8001</module>
         <module>spring-cloud-alibaba-consumer-80</module>
         <module>spring-cloud-alibaba-provider-8002</module>
-        <module>spring-cloud-alibaba-consumer-fegin-8081</module>
+        <module>spring-cloud-alibaba-consumer-feign-8081</module>
+        <module>spring-cloud-alibaba-gateway-9001</module>
+        <module>spring-cloud-alibaba-provider-config-8003</module>
     </modules>
     <packaging>pom</packaging>
 

@@ -1,0 +1,6 @@
+2020-06-24 12:23:09,944 INFO [dump-all-ok] nacos-provider-config.yaml+DEFAULT_GROUP, 1592815118846, length=276, md5=b0154896cee22629d2a0a10ea51afeef
+
+2020-06-24 12:23:09,947 INFO [dump-all-ok] nacos-provider-config-prod.yaml+DEFAULT_GROUP, 1592815562962, length=271, md5=806c879f52b53eac93ea8ce090e0ddb5
+
+2020-06-24 12:23:09,948 INFO [dump-all-ok] nacos-provider-config-test.yaml+DEFAULT_GROUP, 1592815593334, length=269, md5=99980d1979ca413383321ab8d8f7dad0
+

@@ -4,6 +4,9 @@ import com.wang.spring.cloud.alibaba.service.EchoService;
 import feign.hystrix.FallbackFactory;
 import org.springframework.stereotype.Component;
 
+/**
+ * @author zkr.wangzm
+ */
 @Component
 public class NacosFallback implements FallbackFactory<EchoService> {
     @Override

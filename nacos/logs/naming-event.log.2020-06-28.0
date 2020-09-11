@@ -1,0 +1,32 @@
+2020-06-28 16:41:02,578 INFO DEFAULT_GROUP@@nacos-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.120.69:8001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-28 16:41:02,587 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 192.168.120.69:8001_true,
+
+2020-06-28 16:45:55,506 INFO DEFAULT_GROUP@@nacos-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.120.69:80:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-28 16:45:55,506 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-consumer, ips: 192.168.120.69:80_true,
+
+2020-06-28 16:49:25,028 INFO DEFAULT_GROUP@@nacos-fegin {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.120.69:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-28 16:49:25,029 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-fegin, ips: 192.168.120.69:8081_true,
+
+2020-06-28 16:52:05,174 INFO {POS} {IP-DISABLED} valid: 192.168.120.69:8081@DEFAULT@DEFAULT_GROUP@@nacos-fegin, region: unknown, msg: client timeout after 15000, last beat: 1593334309900
+
+2020-06-28 16:52:18,648 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-fegin, ips: 192.168.120.69:8081_false,
+
+2020-06-28 16:52:23,500 INFO service: DEFAULT_GROUP@@nacos-fegin {POS} {IP-ENABLED} valid: 192.168.120.69:8081@DEFAULT, region: unknown, msg: client beat ok
+
+2020-06-28 16:54:50,209 INFO {POS} {IP-DISABLED} valid: 192.168.120.69:8081@DEFAULT@DEFAULT_GROUP@@nacos-fegin, region: unknown, msg: client timeout after 15000, last beat: 1593334473487
+
+2020-06-28 16:55:00,350 INFO service: DEFAULT_GROUP@@nacos-fegin {POS} {IP-ENABLED} valid: 192.168.120.69:8081@DEFAULT, region: unknown, msg: client beat ok
+
+2020-06-28 16:56:52,817 INFO DEFAULT_GROUP@@nacos-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.120.69:8002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-28 16:56:52,817 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 192.168.120.69:8001_true,192.168.120.69:8002_true,
+
+2020-06-28 16:59:12,827 INFO {POS} {IP-DISABLED} valid: 192.168.120.69:8002@DEFAULT@DEFAULT_GROUP@@nacos-provider, region: unknown, msg: client timeout after 15000, last beat: 1593334737605
+
+2020-06-28 16:59:28,818 INFO DEFAULT_GROUP@@nacos-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.120.69:8002:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-06-28 16:59:28,818 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 192.168.120.69:8001_true,
+

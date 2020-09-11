@@ -1,0 +1,206 @@
+2020-06-22 09:35:58,035 INFO DEFAULT_GROUP@@nacos-fegin {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.120.69:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-22 09:35:58,042 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-fegin, ips: 192.168.120.69:8081_true,
+
+2020-06-22 09:37:38,004 INFO {POS} {IP-DISABLED} valid: 192.168.120.69:8081@DEFAULT@DEFAULT_GROUP@@nacos-fegin, region: unknown, msg: client timeout after 15000, last beat: 1592789842606
+
+2020-06-22 09:37:53,397 INFO DEFAULT_GROUP@@nacos-fegin {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.120.69:8081:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-06-22 09:37:53,397 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-fegin, ips: 
+
+2020-06-22 11:20:05,917 INFO DEFAULT_GROUP@@nacos-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.120.69:8001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-22 11:20:05,930 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 192.168.120.69:8001_true,
+
+2020-06-22 11:20:05,937 INFO DEFAULT_GROUP@@nacos-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.120.69:8001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-22 11:20:05,937 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 192.168.120.69:8001_true,
+
+2020-06-22 11:20:05,945 INFO DEFAULT_GROUP@@nacos-fegin {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.120.69:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-22 11:20:05,946 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-fegin, ips: 192.168.120.69:8081_true,
+
+2020-06-22 11:20:06,165 INFO DEFAULT_GROUP@@nacos-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.120.69:80:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-22 11:20:06,165 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-consumer, ips: 192.168.120.69:80_true,
+
+2020-06-22 11:20:10,459 INFO DEFAULT_GROUP@@nacos-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.120.69:8002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-22 11:20:10,459 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 192.168.120.69:8001_true,192.168.120.69:8002_true,
+
+2020-06-22 11:20:10,461 INFO DEFAULT_GROUP@@nacos-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.120.69:8002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-22 11:20:10,461 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 192.168.120.69:8001_true,192.168.120.69:8002_true,
+
+2020-06-22 11:22:47,433 INFO DEFAULT_GROUP@@spring-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.120.69:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-22 11:22:47,433 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-gateway, ips: 192.168.120.69:9001_true,
+
+2020-06-22 11:25:57,488 INFO {POS} {IP-DISABLED} valid: 192.168.120.69:9001@DEFAULT@DEFAULT_GROUP@@spring-gateway, region: unknown, msg: client timeout after 15000, last beat: 1592796342097
+
+2020-06-22 11:26:13,026 INFO DEFAULT_GROUP@@spring-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.120.69:9001:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-06-22 11:26:13,026 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-gateway, ips: 
+
+2020-06-22 11:26:22,724 INFO DEFAULT_GROUP@@spring-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.120.69:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-22 11:26:22,724 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-gateway, ips: 192.168.120.69:9001_true,
+
+2020-06-22 15:48:19,969 INFO {POS} {IP-DISABLED} valid: 192.168.120.69:8081@DEFAULT@DEFAULT_GROUP@@nacos-fegin, region: unknown, msg: client timeout after 15000, last beat: 1592812084290
+
+2020-06-22 15:48:24,969 INFO {POS} {IP-DISABLED} valid: 192.168.120.69:8001@DEFAULT@DEFAULT_GROUP@@nacos-provider, region: unknown, msg: client timeout after 15000, last beat: 1592812089281
+
+2020-06-22 15:48:24,970 INFO {POS} {IP-DISABLED} valid: 192.168.120.69:8002@DEFAULT@DEFAULT_GROUP@@nacos-provider, region: unknown, msg: client timeout after 15000, last beat: 1592812085443
+
+2020-06-22 15:48:25,621 INFO {POS} {IP-DISABLED} valid: 192.168.120.69:80@DEFAULT@DEFAULT_GROUP@@nacos-consumer, region: unknown, msg: client timeout after 15000, last beat: 1592812086142
+
+2020-06-22 15:48:27,008 INFO {POS} {IP-DISABLED} valid: 192.168.120.69:9001@DEFAULT@DEFAULT_GROUP@@spring-gateway, region: unknown, msg: client timeout after 15000, last beat: 1592812087469
+
+2020-06-22 15:48:35,192 INFO DEFAULT_GROUP@@nacos-fegin {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.120.69:8081:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-06-22 15:48:35,192 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-fegin, ips: 
+
+2020-06-22 15:48:40,023 INFO DEFAULT_GROUP@@nacos-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.120.69:8001:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-06-22 15:48:40,023 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 192.168.120.69:8002_false,
+
+2020-06-22 15:48:40,023 INFO DEFAULT_GROUP@@nacos-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.120.69:8001:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-06-22 15:48:40,024 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 192.168.120.69:8002_false,
+
+2020-06-22 15:48:40,046 INFO DEFAULT_GROUP@@nacos-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.120.69:8002:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-06-22 15:48:40,046 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 
+
+2020-06-22 15:48:40,046 INFO DEFAULT_GROUP@@nacos-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.120.69:8002:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-06-22 15:48:40,046 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 
+
+2020-06-22 15:48:40,051 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 
+
+2020-06-22 15:48:40,051 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 
+
+2020-06-22 15:48:40,633 INFO DEFAULT_GROUP@@nacos-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.120.69:80:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-06-22 15:48:40,633 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-consumer, ips: 
+
+2020-06-22 15:48:42,018 INFO DEFAULT_GROUP@@spring-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.120.69:9001:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-06-22 15:48:42,018 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-gateway, ips: 
+
+2020-06-22 16:05:21,928 INFO DEFAULT_GROUP@@spring-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.120.69:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-22 16:05:21,928 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-gateway, ips: 192.168.120.69:9001_true,
+
+2020-06-22 16:05:25,062 INFO DEFAULT_GROUP@@nacos-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.120.69:80:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-22 16:05:25,062 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-consumer, ips: 192.168.120.69:80_true,
+
+2020-06-22 16:05:42,166 INFO DEFAULT_GROUP@@nacos-fegin {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.120.69:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-22 16:05:42,166 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-fegin, ips: 192.168.120.69:8081_true,
+
+2020-06-22 16:05:49,266 INFO DEFAULT_GROUP@@nacos-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.120.69:8001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-22 16:05:49,267 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 192.168.120.69:8001_true,
+
+2020-06-22 16:05:49,267 INFO DEFAULT_GROUP@@nacos-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.120.69:8001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-22 16:05:49,267 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 192.168.120.69:8001_true,
+
+2020-06-22 16:05:54,587 INFO DEFAULT_GROUP@@nacos-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.120.69:8002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-22 16:05:54,587 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 192.168.120.69:8001_true,192.168.120.69:8002_true,
+
+2020-06-22 16:05:54,589 INFO DEFAULT_GROUP@@nacos-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.120.69:8002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-22 16:05:54,589 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 192.168.120.69:8001_true,192.168.120.69:8002_true,
+
+2020-06-22 16:18:46,122 INFO {POS} {IP-DISABLED} valid: 192.168.120.69:8001@DEFAULT@DEFAULT_GROUP@@nacos-provider, region: unknown, msg: client timeout after 15000, last beat: 1592813909067
+
+2020-06-22 16:18:46,122 INFO {POS} {IP-DISABLED} valid: 192.168.120.69:8002@DEFAULT@DEFAULT_GROUP@@nacos-provider, region: unknown, msg: client timeout after 15000, last beat: 1592813909434
+
+2020-06-22 16:18:46,770 INFO {POS} {IP-DISABLED} valid: 192.168.120.69:80@DEFAULT@DEFAULT_GROUP@@nacos-consumer, region: unknown, msg: client timeout after 15000, last beat: 1592813909785
+
+2020-06-22 16:18:47,986 INFO {POS} {IP-DISABLED} valid: 192.168.120.69:9001@DEFAULT@DEFAULT_GROUP@@spring-gateway, region: unknown, msg: client timeout after 15000, last beat: 1592813911547
+
+2020-06-22 16:18:51,124 INFO {POS} {IP-DISABLED} valid: 192.168.120.69:8081@DEFAULT@DEFAULT_GROUP@@nacos-fegin, region: unknown, msg: client timeout after 15000, last beat: 1592813911422
+
+2020-06-22 16:19:01,231 INFO DEFAULT_GROUP@@nacos-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 2, content: [192.168.120.69:8001:unknown:DEFAULT_1.0_false_false_DEFAULT, 192.168.120.69:8002:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-06-22 16:19:01,231 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 
+
+2020-06-22 16:19:01,233 INFO DEFAULT_GROUP@@nacos-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 2, content: [192.168.120.69:8001:unknown:DEFAULT_1.0_false_false_DEFAULT, 192.168.120.69:8002:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-06-22 16:19:01,233 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 
+
+2020-06-22 16:19:01,235 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 
+
+2020-06-22 16:19:01,235 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 
+
+2020-06-22 16:19:01,806 INFO DEFAULT_GROUP@@nacos-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.120.69:80:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-06-22 16:19:01,806 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-consumer, ips: 
+
+2020-06-22 16:19:03,003 INFO DEFAULT_GROUP@@spring-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.120.69:9001:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-06-22 16:19:03,003 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-gateway, ips: 
+
+2020-06-22 16:19:06,178 INFO DEFAULT_GROUP@@nacos-fegin {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.120.69:8081:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-06-22 16:19:06,178 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-fegin, ips: 
+
+2020-06-22 16:39:05,561 INFO DEFAULT_GROUP@@nacos-provider-config {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.120.69:8003:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-22 16:39:05,562 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider-config, ips: 192.168.120.69:8003_true,
+
+2020-06-22 16:44:15,629 INFO {POS} {IP-DISABLED} valid: 192.168.120.69:8003@DEFAULT@DEFAULT_GROUP@@nacos-provider-config, region: unknown, msg: client timeout after 15000, last beat: 1592815440406
+
+2020-06-22 16:44:30,638 INFO DEFAULT_GROUP@@nacos-provider-config {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.120.69:8003:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-06-22 16:44:30,638 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider-config, ips: 
+
+2020-06-22 16:47:38,180 INFO DEFAULT_GROUP@@nacos-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.120.69:8003:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-22 16:47:38,180 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 192.168.120.69:8003_true,
+
+2020-06-22 16:47:38,181 INFO DEFAULT_GROUP@@nacos-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.120.69:8003:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-22 16:47:38,181 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 192.168.120.69:8003_true,
+
+2020-06-22 16:48:32,533 INFO {POS} {IP-DISABLED} valid: 192.168.120.69:8003@DEFAULT@DEFAULT_GROUP@@nacos-provider, region: unknown, msg: client timeout after 15000, last beat: 1592815693043
+
+2020-06-22 16:48:47,553 INFO DEFAULT_GROUP@@nacos-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.120.69:8003:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-06-22 16:48:47,555 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 
+
+2020-06-22 16:48:47,556 INFO DEFAULT_GROUP@@nacos-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.120.69:8003:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-06-22 16:48:47,556 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 
+
+2020-06-22 16:48:47,557 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 
+
+2020-06-22 16:48:47,557 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 
+
+2020-06-22 16:53:56,616 INFO DEFAULT_GROUP@@nacos-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.120.69:8003:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-22 16:53:56,616 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 192.168.120.69:8003_true,
+
+2020-06-22 16:53:56,617 INFO DEFAULT_GROUP@@nacos-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.120.69:8003:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-22 16:53:56,617 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 192.168.120.69:8003_true,
+
+2020-06-22 16:56:42,672 INFO {POS} {IP-DISABLED} valid: 192.168.120.69:8003@DEFAULT@DEFAULT_GROUP@@nacos-provider, region: unknown, msg: client timeout after 15000, last beat: 1592816186462
+
+2020-06-22 16:56:57,682 INFO DEFAULT_GROUP@@nacos-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.120.69:8003:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-06-22 16:56:57,682 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 
+
+2020-06-22 16:56:57,683 INFO DEFAULT_GROUP@@nacos-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.120.69:8003:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-06-22 16:56:57,683 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 
+
+2020-06-22 16:56:57,691 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 
+
+2020-06-22 16:56:57,691 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 
+

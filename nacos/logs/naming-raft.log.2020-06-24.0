@@ -1,0 +1,72 @@
+2020-06-24 12:23:04,052 INFO initializing Raft sub-system
+
+2020-06-24 12:23:04,054 INFO raft notifier started
+
+2020-06-24 12:23:04,053 INFO finish loading all datums, size: 0 cost 1 ms.
+
+2020-06-24 12:23:04,063 INFO cache loaded, datum count: 0, current term: 0
+
+2020-06-24 12:23:04,063 INFO finish to load data from disk, cost: 11 ms.
+
+2020-06-24 12:23:04,069 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2020-06-24 12:23:03,799 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"192.168.120.69","key":"192.168.120.69:0","lastRefTime":0,"servePort":0,"site":"unknown","weight":1}]
+
+2020-06-24 12:23:04,088 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.120.69","key":"192.168.120.69:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2020-06-24 12:23:04,196 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2020-06-24 12:23:08,509 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2020-06-24 12:23:13,785 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-06-24 12:23:13,785 INFO server list is updated, dead: 1, servers: [{"adWeight":0,"alive":false,"ip":"192.168.120.69","key":"192.168.120.69:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2020-06-24 12:23:13,785 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-06-24 12:23:17,743 INFO [RAFT] send beat with 0 keys.
+
+2020-06-24 12:23:17,797 INFO raw beat data size: 165, size of compressed data: 137
+
+2020-06-24 12:23:22,822 INFO [RAFT] send beat with 0 keys.
+
+2020-06-24 12:23:22,822 INFO raw beat data size: 165, size of compressed data: 143
+
+2020-06-24 12:23:23,789 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-06-24 12:23:27,835 INFO [RAFT] send beat with 0 keys.
+
+2020-06-24 12:23:27,835 INFO raw beat data size: 165, size of compressed data: 147
+
+2020-06-24 12:23:32,847 INFO [RAFT] send beat with 0 keys.
+
+2020-06-24 12:23:32,847 INFO raw beat data size: 165, size of compressed data: 139
+
+2020-06-24 12:23:37,859 INFO [RAFT] send beat with 0 keys.
+
+2020-06-24 12:23:37,859 INFO raw beat data size: 165, size of compressed data: 141
+
+2020-06-24 12:23:42,873 INFO [RAFT] send beat with 0 keys.
+
+2020-06-24 12:23:42,874 INFO raw beat data size: 165, size of compressed data: 145
+
+2020-06-24 12:23:47,881 INFO [RAFT] send beat with 0 keys.
+
+2020-06-24 12:23:47,882 INFO raw beat data size: 165, size of compressed data: 141
+
+2020-06-24 12:23:52,892 INFO [RAFT] send beat with 0 keys.
+
+2020-06-24 12:23:52,892 INFO raw beat data size: 165, size of compressed data: 142
+
+2020-06-24 12:23:57,902 INFO [RAFT] send beat with 0 keys.
+
+2020-06-24 12:23:57,903 INFO raw beat data size: 165, size of compressed data: 144
+
+2020-06-24 12:24:02,914 INFO [RAFT] send beat with 0 keys.
+
+2020-06-24 12:24:02,914 INFO raw beat data size: 165, size of compressed data: 141
+
+2020-06-24 12:24:07,922 INFO [RAFT] send beat with 0 keys.
+
+2020-06-24 12:24:07,923 INFO raw beat data size: 165, size of compressed data: 143
+

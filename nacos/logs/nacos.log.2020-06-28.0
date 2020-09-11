@@ -1,0 +1,416 @@
+2020-06-28 14:59:30,463 INFO Starting Nacos v1.1.0 on FT-SZ-9072247 with PID 16008 (F:\git\springcloudalibaba\springcloudalibab\nacos\target\nacos-server.jar started by zkr.wangzm in F:\git\springcloudalibaba\springcloudalibab\nacos\bin)
+
+2020-06-28 14:59:30,477 INFO The following profiles are active: standalone
+
+2020-06-28 14:59:36,453 INFO Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$d14a0594] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-06-28 14:59:36,791 INFO Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-06-28 14:59:36,800 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@b1e9b8' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-06-28 14:59:36,807 INFO Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$f61ea846] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-06-28 14:59:36,824 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-06-28 14:59:38,955 INFO Tomcat initialized with port(s): 8848 (http)
+
+2020-06-28 14:59:39,190 INFO Starting service [Tomcat]
+
+2020-06-28 14:59:39,191 INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+
+2020-06-28 14:59:39,234 INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [F:\wzm\java\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;%F:\wzm\java\bin;F:\wzm\java\jre\lib;F:\wzm\tomcat\apache-maven-3.3.9\bin;F:\wzm\java\bin;F:\wzm\Git\cmd;F:\wzm\mysql-5.7.29-winx64\bin;C:\Program Files\nodejs;F:\wzm\tomcat\apache-tomcat-7.0.76\lib;F:\wzm\tomcat\apache-tomcat-7.0.76\bin;C:\Users\zkr.wangzm\AppData\Local\Microsoft\WindowsApps;F:\wzm\xshell;C:\Users\zkr.wangzm\AppData\Roaming\npm;.]
+
+2020-06-28 14:59:39,630 INFO Initializing Spring embedded WebApplicationContext
+
+2020-06-28 14:59:39,635 INFO Root WebApplicationContext: initialization completed in 8866 ms
+
+2020-06-28 14:59:45,541 INFO Use Mysql as the driver
+
+2020-06-28 14:59:46,363 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2020-06-28 14:59:46,845 INFO Adding welcome page: class path resource [static/index.html]
+
+2020-06-28 14:59:47,634 INFO Creating filter chain: Ant [pattern='/'], []
+
+2020-06-28 14:59:47,635 INFO Creating filter chain: Ant [pattern='/**/*.css'], []
+
+2020-06-28 14:59:47,635 INFO Creating filter chain: Ant [pattern='/**/*.js'], []
+
+2020-06-28 14:59:47,635 INFO Creating filter chain: Ant [pattern='/**/*.html'], []
+
+2020-06-28 14:59:47,636 INFO Creating filter chain: Ant [pattern='/**/*.map'], []
+
+2020-06-28 14:59:47,636 INFO Creating filter chain: Ant [pattern='/**/*.svg'], []
+
+2020-06-28 14:59:47,636 INFO Creating filter chain: Ant [pattern='/**/*.png'], []
+
+2020-06-28 14:59:47,636 INFO Creating filter chain: Ant [pattern='/**/*.ico'], []
+
+2020-06-28 14:59:47,637 INFO Creating filter chain: Ant [pattern='/console-fe/public/**'], []
+
+2020-06-28 14:59:47,637 INFO Creating filter chain: Ant [pattern='/v1/auth/login'], []
+
+2020-06-28 14:59:47,637 INFO Creating filter chain: Ant [pattern='/v1/console/health/**'], []
+
+2020-06-28 14:59:47,638 INFO Creating filter chain: Ant [pattern='/v1/cs/**'], []
+
+2020-06-28 14:59:47,638 INFO Creating filter chain: Ant [pattern='/v1/ns/**'], []
+
+2020-06-28 14:59:47,638 INFO Creating filter chain: Ant [pattern='/v1/cmdb/**'], []
+
+2020-06-28 14:59:47,639 INFO Creating filter chain: Ant [pattern='/actuator/**'], []
+
+2020-06-28 14:59:47,639 INFO Creating filter chain: Ant [pattern='/v1/console/server/**'], []
+
+2020-06-28 14:59:47,714 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7b5f92, org.springframework.security.web.context.SecurityContextPersistenceFilter@1602954, org.springframework.security.web.header.HeaderWriterFilter@f57b3d, org.springframework.security.web.authentication.logout.LogoutFilter@258c2f, com.alibaba.nacos.console.filter.JwtAuthenticationTokenFilter@bdb479, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3dec30, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@56e013, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@3f95fe, org.springframework.security.web.session.SessionManagementFilter@e3db41, org.springframework.security.web.access.ExceptionTranslationFilter@a0256d, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@f3156d]
+
+2020-06-28 14:59:47,797 INFO Exposing 2 endpoint(s) beneath base path '/actuator'
+
+2020-06-28 14:59:47,863 INFO Initializing ExecutorService 'taskScheduler'
+
+2020-06-28 14:59:48,088 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2020-06-28 14:59:48,099 INFO Started Nacos in 20.67 seconds (JVM running for 22.021)
+
+2020-06-28 14:59:48,099 INFO Nacos Log files: F:\git\springcloudalibaba\springcloudalibab\nacos/logs/
+
+2020-06-28 14:59:48,100 INFO Nacos Conf files: F:\git\springcloudalibaba\springcloudalibab\nacos/conf/
+
+2020-06-28 14:59:48,100 INFO Nacos Data files: F:\git\springcloudalibaba\springcloudalibab\nacos/data/
+
+2020-06-28 14:59:48,100 INFO Nacos started successfully in stand alone mode.
+
+2020-06-28 14:59:50,211 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2020-06-28 14:59:50,212 INFO Initializing Servlet 'dispatcherServlet'
+
+2020-06-28 14:59:50,235 INFO Completed initialization in 22 ms
+
+2020-06-28 15:09:44,998 INFO [capacityManagement] start correct usage
+
+2020-06-28 15:09:45,047 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 15:09:45,526 WARN clearConfigHistory start
+
+2020-06-28 15:19:45,049 INFO [capacityManagement] start correct usage
+
+2020-06-28 15:19:45,050 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 15:19:45,560 WARN clearConfigHistory start
+
+2020-06-28 15:29:45,051 INFO [capacityManagement] start correct usage
+
+2020-06-28 15:29:45,052 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 15:29:45,564 WARN clearConfigHistory start
+
+2020-06-28 15:39:45,053 INFO [capacityManagement] start correct usage
+
+2020-06-28 15:39:45,054 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 15:39:45,570 WARN clearConfigHistory start
+
+2020-06-28 15:49:45,056 INFO [capacityManagement] start correct usage
+
+2020-06-28 15:49:45,057 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 15:49:45,576 WARN clearConfigHistory start
+
+2020-06-28 15:59:45,058 INFO [capacityManagement] start correct usage
+
+2020-06-28 15:59:45,059 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 15:59:45,583 WARN clearConfigHistory start
+
+2020-06-28 16:09:45,061 INFO [capacityManagement] start correct usage
+
+2020-06-28 16:09:45,064 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 16:09:45,587 WARN clearConfigHistory start
+
+2020-06-28 16:19:45,065 INFO [capacityManagement] start correct usage
+
+2020-06-28 16:19:45,066 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 16:19:45,590 WARN clearConfigHistory start
+
+2020-06-28 16:21:15,680 INFO Expired JWT token.
+
+2020-06-28 16:21:15,741 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-06-28 16:29:45,067 INFO [capacityManagement] start correct usage
+
+2020-06-28 16:29:45,069 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 16:29:45,596 WARN clearConfigHistory start
+
+2020-06-28 16:39:45,069 INFO [capacityManagement] start correct usage
+
+2020-06-28 16:39:45,072 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 16:39:45,601 WARN clearConfigHistory start
+
+2020-06-28 16:49:45,074 INFO [capacityManagement] start correct usage
+
+2020-06-28 16:49:45,082 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 16:49:45,604 WARN clearConfigHistory start
+
+2020-06-28 16:59:45,084 INFO [capacityManagement] start correct usage
+
+2020-06-28 16:59:45,085 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 16:59:45,610 WARN clearConfigHistory start
+
+2020-06-28 17:09:45,087 INFO [capacityManagement] start correct usage
+
+2020-06-28 17:09:45,089 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 17:09:45,613 WARN clearConfigHistory start
+
+2020-06-28 17:19:45,091 INFO [capacityManagement] start correct usage
+
+2020-06-28 17:19:45,093 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 17:19:45,619 WARN clearConfigHistory start
+
+2020-06-28 17:29:45,094 INFO [capacityManagement] start correct usage
+
+2020-06-28 17:29:45,095 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 17:29:45,629 WARN clearConfigHistory start
+
+2020-06-28 17:39:45,096 INFO [capacityManagement] start correct usage
+
+2020-06-28 17:39:45,098 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 17:39:45,632 WARN clearConfigHistory start
+
+2020-06-28 17:49:45,101 INFO [capacityManagement] start correct usage
+
+2020-06-28 17:49:45,103 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 17:49:45,638 WARN clearConfigHistory start
+
+2020-06-28 17:59:45,105 INFO [capacityManagement] start correct usage
+
+2020-06-28 17:59:45,109 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 17:59:45,643 WARN clearConfigHistory start
+
+2020-06-28 18:09:45,111 INFO [capacityManagement] start correct usage
+
+2020-06-28 18:09:45,114 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 18:09:45,647 WARN clearConfigHistory start
+
+2020-06-28 18:19:45,116 INFO [capacityManagement] start correct usage
+
+2020-06-28 18:19:45,119 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 18:19:45,650 WARN clearConfigHistory start
+
+2020-06-28 18:29:45,121 INFO [capacityManagement] start correct usage
+
+2020-06-28 18:29:45,124 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 18:29:45,656 WARN clearConfigHistory start
+
+2020-06-28 18:39:45,126 INFO [capacityManagement] start correct usage
+
+2020-06-28 18:39:45,127 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 18:39:45,667 WARN clearConfigHistory start
+
+2020-06-28 18:49:45,129 INFO [capacityManagement] start correct usage
+
+2020-06-28 18:49:45,130 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 18:49:45,672 WARN clearConfigHistory start
+
+2020-06-28 18:59:45,132 INFO [capacityManagement] start correct usage
+
+2020-06-28 18:59:45,135 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 18:59:45,676 WARN clearConfigHistory start
+
+2020-06-28 19:09:45,137 INFO [capacityManagement] start correct usage
+
+2020-06-28 19:09:45,140 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 19:09:45,679 WARN clearConfigHistory start
+
+2020-06-28 19:19:45,141 INFO [capacityManagement] start correct usage
+
+2020-06-28 19:19:45,142 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 19:19:45,683 WARN clearConfigHistory start
+
+2020-06-28 19:29:45,144 INFO [capacityManagement] start correct usage
+
+2020-06-28 19:29:45,146 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 19:29:45,690 WARN clearConfigHistory start
+
+2020-06-28 19:39:45,147 INFO [capacityManagement] start correct usage
+
+2020-06-28 19:39:45,150 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 19:39:45,695 WARN clearConfigHistory start
+
+2020-06-28 19:49:45,153 INFO [capacityManagement] start correct usage
+
+2020-06-28 19:49:45,155 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 19:49:45,700 WARN clearConfigHistory start
+
+2020-06-28 19:59:45,156 INFO [capacityManagement] start correct usage
+
+2020-06-28 19:59:45,159 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 19:59:45,708 WARN clearConfigHistory start
+
+2020-06-28 20:09:45,162 INFO [capacityManagement] start correct usage
+
+2020-06-28 20:09:45,164 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 20:09:45,714 WARN clearConfigHistory start
+
+2020-06-28 20:19:45,166 INFO [capacityManagement] start correct usage
+
+2020-06-28 20:19:45,168 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 20:19:45,719 WARN clearConfigHistory start
+
+2020-06-28 20:29:45,171 INFO [capacityManagement] start correct usage
+
+2020-06-28 20:29:45,175 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 20:29:45,722 WARN clearConfigHistory start
+
+2020-06-28 20:39:45,177 INFO [capacityManagement] start correct usage
+
+2020-06-28 20:39:45,180 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 20:39:45,726 WARN clearConfigHistory start
+
+2020-06-28 20:49:45,181 INFO [capacityManagement] start correct usage
+
+2020-06-28 20:49:45,183 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 20:49:45,732 WARN clearConfigHistory start
+
+2020-06-28 20:59:45,184 INFO [capacityManagement] start correct usage
+
+2020-06-28 20:59:45,190 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 20:59:45,738 WARN clearConfigHistory start
+
+2020-06-28 21:09:45,192 INFO [capacityManagement] start correct usage
+
+2020-06-28 21:09:45,196 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 21:09:45,742 WARN clearConfigHistory start
+
+2020-06-28 21:19:45,199 INFO [capacityManagement] start correct usage
+
+2020-06-28 21:19:45,204 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 21:19:45,746 WARN clearConfigHistory start
+
+2020-06-28 21:29:45,206 INFO [capacityManagement] start correct usage
+
+2020-06-28 21:29:45,207 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 21:29:45,754 WARN clearConfigHistory start
+
+2020-06-28 21:39:45,208 INFO [capacityManagement] start correct usage
+
+2020-06-28 21:39:45,210 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 21:39:45,757 WARN clearConfigHistory start
+
+2020-06-28 21:49:45,212 INFO [capacityManagement] start correct usage
+
+2020-06-28 21:49:45,215 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 21:49:45,760 WARN clearConfigHistory start
+
+2020-06-28 21:59:45,217 INFO [capacityManagement] start correct usage
+
+2020-06-28 21:59:45,221 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 21:59:45,767 WARN clearConfigHistory start
+
+2020-06-28 22:09:45,222 INFO [capacityManagement] start correct usage
+
+2020-06-28 22:09:45,224 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 22:09:45,770 WARN clearConfigHistory start
+
+2020-06-28 22:19:45,226 INFO [capacityManagement] start correct usage
+
+2020-06-28 22:19:45,229 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 22:19:45,774 WARN clearConfigHistory start
+
+2020-06-28 22:29:45,231 INFO [capacityManagement] start correct usage
+
+2020-06-28 22:29:45,234 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 22:29:45,780 WARN clearConfigHistory start
+
+2020-06-28 22:39:45,235 INFO [capacityManagement] start correct usage
+
+2020-06-28 22:39:45,237 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 22:39:45,785 WARN clearConfigHistory start
+
+2020-06-28 22:49:45,238 INFO [capacityManagement] start correct usage
+
+2020-06-28 22:49:45,239 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 22:49:45,788 WARN clearConfigHistory start
+
+2020-06-28 22:59:45,241 INFO [capacityManagement] start correct usage
+
+2020-06-28 22:59:45,243 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 22:59:45,792 WARN clearConfigHistory start
+
+2020-06-28 23:09:45,244 INFO [capacityManagement] start correct usage
+
+2020-06-28 23:09:45,247 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 23:09:45,802 WARN clearConfigHistory start
+
+2020-06-28 23:19:45,249 INFO [capacityManagement] start correct usage
+
+2020-06-28 23:19:45,249 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 23:19:45,808 WARN clearConfigHistory start
+
+2020-06-28 23:29:45,252 INFO [capacityManagement] start correct usage
+
+2020-06-28 23:29:45,255 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 23:29:45,812 WARN clearConfigHistory start
+
+2020-06-28 23:39:45,256 INFO [capacityManagement] start correct usage
+
+2020-06-28 23:39:45,259 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 23:39:45,816 WARN clearConfigHistory start
+
+2020-06-28 23:49:45,260 INFO [capacityManagement] start correct usage
+
+2020-06-28 23:49:45,264 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 23:49:45,819 WARN clearConfigHistory start
+
+2020-06-28 23:59:45,265 INFO [capacityManagement] start correct usage
+
+2020-06-28 23:59:45,269 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-06-28 23:59:45,822 WARN clearConfigHistory start
+

@@ -1,0 +1,28 @@
+2020-06-24 12:23:04,126 INFO distro notifier started
+
+2020-06-24 12:23:09,113 DEBUG server list is: []
+
+2020-06-24 12:23:14,114 DEBUG server list is: []
+
+2020-06-24 12:23:19,115 DEBUG server list is: []
+
+2020-06-24 12:23:24,116 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592972603788,"lastRefTimeStr":"2020-06-24 12:23:23","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-24 12:23:29,116 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592972603788,"lastRefTimeStr":"2020-06-24 12:23:23","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-24 12:23:34,118 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592972603788,"lastRefTimeStr":"2020-06-24 12:23:23","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-24 12:23:39,120 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592972603788,"lastRefTimeStr":"2020-06-24 12:23:23","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-24 12:23:44,120 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592972603788,"lastRefTimeStr":"2020-06-24 12:23:23","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-24 12:23:49,121 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592972603788,"lastRefTimeStr":"2020-06-24 12:23:23","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-24 12:23:54,123 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592972603788,"lastRefTimeStr":"2020-06-24 12:23:23","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-24 12:23:59,125 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592972603788,"lastRefTimeStr":"2020-06-24 12:23:23","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-24 12:24:04,127 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592972603788,"lastRefTimeStr":"2020-06-24 12:23:23","servePort":8848,"site":"unknown","weight":2}]
+
+2020-06-24 12:24:09,128 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.120.69","key":"192.168.120.69:8848","lastRefTime":1592972603788,"lastRefTimeStr":"2020-06-24 12:23:23","servePort":8848,"site":"unknown","weight":2}]
+

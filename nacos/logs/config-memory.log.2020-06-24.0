@@ -1,0 +1,38 @@
+2020-06-24 12:23:09,589 INFO [long-pulling] client count 0
+
+2020-06-24 12:23:19,504 INFO groupCount=3, subscriberClientCount=0, subscriberCount=0
+
+2020-06-24 12:23:19,505 INFO notifySingleServiceThreadPool-java.util.concurrent.ScheduledThreadPoolExecutor, toNotifyTaskSize=0
+
+2020-06-24 12:23:19,613 INFO [long-pulling] client count 0
+
+2020-06-24 12:23:29,506 INFO groupCount=3, subscriberClientCount=0, subscriberCount=0
+
+2020-06-24 12:23:29,508 INFO notifySingleServiceThreadPool-java.util.concurrent.ScheduledThreadPoolExecutor, toNotifyTaskSize=0
+
+2020-06-24 12:23:29,615 INFO [long-pulling] client count 0
+
+2020-06-24 12:23:39,507 INFO groupCount=3, subscriberClientCount=0, subscriberCount=0
+
+2020-06-24 12:23:39,509 INFO notifySingleServiceThreadPool-java.util.concurrent.ScheduledThreadPoolExecutor, toNotifyTaskSize=0
+
+2020-06-24 12:23:39,617 INFO [long-pulling] client count 0
+
+2020-06-24 12:23:49,508 INFO groupCount=3, subscriberClientCount=0, subscriberCount=0
+
+2020-06-24 12:23:49,511 INFO notifySingleServiceThreadPool-java.util.concurrent.ScheduledThreadPoolExecutor, toNotifyTaskSize=0
+
+2020-06-24 12:23:49,619 INFO [long-pulling] client count 0
+
+2020-06-24 12:23:59,511 INFO groupCount=3, subscriberClientCount=0, subscriberCount=0
+
+2020-06-24 12:23:59,511 INFO notifySingleServiceThreadPool-java.util.concurrent.ScheduledThreadPoolExecutor, toNotifyTaskSize=0
+
+2020-06-24 12:23:59,620 INFO [long-pulling] client count 0
+
+2020-06-24 12:24:09,512 INFO notifySingleServiceThreadPool-java.util.concurrent.ScheduledThreadPoolExecutor, toNotifyTaskSize=0
+
+2020-06-24 12:24:09,512 INFO groupCount=3, subscriberClientCount=0, subscriberCount=0
+
+2020-06-24 12:24:09,621 INFO [long-pulling] client count 0
+
